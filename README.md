@@ -1,4 +1,4 @@
-# SpringAngularEBankingBackEnd2
+# SpringBootEBankingBackEnd
 BackEnd Part Of Angular Project : SpringBoot, Jpa, SpringData, SpringDataRest, RestControler, Dtos, Swagger
 
 ![image](https://user-images.githubusercontent.com/39586770/204517600-1409c7f3-0e47-4a8f-8122-40a27797afda.png)
